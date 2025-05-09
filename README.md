@@ -32,6 +32,7 @@ axios
 ---
 4) nello script:
 - prelevo gli elementi dal DOM con document.getelementbyid;
+- utilizzo un ciclo for dove i <= 10 così che le mail generate siano 10 come da consegna;
 - con axios.get richiedo la email generata casualmente;
 - con .then e la funzione di callback ricevo la risposta;
 - con document.createElement("li"): creo un nuovo elemento lista;
